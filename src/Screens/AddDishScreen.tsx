@@ -13,9 +13,6 @@ import {
 } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
-// ⚠️ Export the hero photo from the Figma file (right-click the image layer
-// → Export) and save it here. Using the temporary Figma CDN URL directly in
-// code isn't reliable — those links expire after 7 days.
 const headerImage = require("../../assets/images/Appbar.png");
 
 interface Dish {
